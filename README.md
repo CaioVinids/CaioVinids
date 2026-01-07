@@ -1,3 +1,5 @@
+<img src="nome-da-sua-imagem.png" alt="Banner" width="100%">
+
 ### Sobre mim ###
 
 Sou estudante universitário de Sistemas de Informação na Universidade São Judas Tadeu. Fique à vontade para explorar meus repositórios no GitHub para acompanhar meus projetos e contribuições. Estou animado para compartilhar meu progresso e aprendizado com a comunidade de desenvolvedores.
