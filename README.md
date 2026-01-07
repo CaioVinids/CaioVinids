@@ -1,4 +1,4 @@
-<img src="bannerGithub.png" alt="Banner" width="100%">
+<img src="bannerGithu.png" alt="Banner" width="100%">
 
 ### Sobre mim ###
 
