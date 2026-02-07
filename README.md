@@ -16,7 +16,7 @@ Essas são as principais linguagens, tecnologias e frameworks que conheço e est
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,javascript,dart,figma,flutter,firebase,mysql,postman,sqlite,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,javascript,dart,figma,flutter,firebase,mysql,sqlite,vscode" />
   </a>
 </p>
 
