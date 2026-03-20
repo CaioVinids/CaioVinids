@@ -32,3 +32,10 @@ Essas são as principais linguagens, tecnologias e frameworks que conheço e est
 
 ![Estatísticas do Caio](https://github-readme-stats.vercel.app/api?username=CaioVinids&show_icons=true&theme=dark&hide_border=false&title_color=ffffff&icon_color=4ee24e&text_color=ebebeb&bg_color=0d1117&include_all_commits=true)
 
+### 🛠 Tecnologias e Ferramentas
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
