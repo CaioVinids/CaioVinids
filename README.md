@@ -28,5 +28,5 @@ Essas são as principais linguagens, tecnologias e frameworks que conheço e est
   </a>
 </p>
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CaioVinids&show_icons=true&theme=dark&hide_border=false&title_color=ffffff&icon_color=4ee24e&text_color=ebebeb&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+![Estatísticas do Caio](https://github-readme-stats.vercel.app/api?username=CaioVinids&show_icons=true&theme=dark&hide_border=false&title_color=ffffff&icon_color=4ee24e&text_color=ebebeb&bg_color=0d1117&include_all_commits=true)
 
