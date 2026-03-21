@@ -30,4 +30,4 @@ Essas são as principais linguagens, tecnologias e frameworks que conheço e est
 
 ### Profile's Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVinids&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
