@@ -30,4 +30,4 @@ Essas são as principais linguagens, tecnologias e frameworks que conheço e est
 
 ### Profile's Stats
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CaioVinids&layout=compact&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CaioVinids&layout=compact&langs_count=5&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=CaioVinids&layout=compact&langs_count=5&theme=algolia)
